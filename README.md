@@ -13,18 +13,18 @@
   <a href="https://github.com/kgemas/Smart-Translate/blob/main/README.md">[Vietnamese]</a>
   -
   <a href="https://github.com/kgemas/Smart-Translate/blob/main/README.EN.md">[English]</a>
-</p
+</p>
 
 Đây là gì?
 ===
 - Đây là ứng dụng dịch thuật bao gồm tự động gõ sang ngôn ngữ đích, hoạt động trên tất cả ứng dụng/cửa sổ windows.
 - Cách hoạt động đơn giản dựa vào clipboard, global hook và google translate api.
+
 <details open>
   <summary>Mở rộng / Thu nhỏ</summary>
   <p align="center">
     <img src="https://github.com/kgemas/Smart-Translate/assets/93424739/e5e1b024-7131-49b6-8950-fa8af655fb58">
   </p>
-
 </details>
 
 Tải về
